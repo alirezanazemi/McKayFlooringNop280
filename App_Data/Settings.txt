@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=STEPHENDAVIDSON\LARSSON;Initial Catalog=mckayflooring280;Integrated Security=False;Persist Security Info=False;User ID=mckayflooring;Password=mfnop2012;MultipleActiveResultSets=True
